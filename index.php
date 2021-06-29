@@ -1,3 +1,6 @@
+<?php 
+require "db_connector.php" //takes the code from the file and put it into this index.php file
+?>
 <!DOCTYPE html>
 <html lang="en">
 
